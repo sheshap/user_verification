@@ -1,7 +1,6 @@
 # R script to implement user verification based on smartphone data 
 # Author: Shivanand Venkanna Sheshappanavar
 # Email: ssheshap@syr.edu
-# License: MIT
 
 library(caret) #
 library(randomForest) # random forest
