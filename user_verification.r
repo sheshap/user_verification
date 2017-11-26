@@ -5,13 +5,7 @@
 
 library(caret) #
 library(randomForest) # random forest
-library(e1071)  # naive bayes
-library(MASS)   # svm
-library(nnet)   # neural network
-library(RWeka)  # J48, JRip
 library(class)  # knn
-library(rpart)  # CART
-library(adabag) # Bagging, Boosting
 library(plyr)
 
 partition_dataset <- function(newdata, name) {
